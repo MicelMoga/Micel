@@ -1,0 +1,33 @@
+.navbar-brand {
+    font-size: 45px;
+    font-family:'Times New Roman', Times, serif;
+    color: #304438;
+}
+.btn{
+font-size: 20px ;
+font-family:"Times New Roman",Times, serif;
+border-radius: 0;
+transition: all ease-in .5s;
+}
+.btn-brand{
+    background-color: #304438;
+    color: #fff
+}
+.btn-brand:hover{
+    border: 2px solid #304438;
+}
+.navbar .nav-link{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 18px;
+    color: #304438;
+    text-transform: uppercase;
+}
+#banner {
+    background: url('nature.jpg');
+    height: 90vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+
